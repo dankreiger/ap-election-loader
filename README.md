@@ -86,4 +86,4 @@ The following options are available to `crawl.rb`. Any option listed without exa
 
 ## Copyright
 
-Copyright &copy; 2013 The Huffington Post. See LICENSE for details.
+Copyright &copy; 2014 The Huffington Post. See LICENSE for details.
